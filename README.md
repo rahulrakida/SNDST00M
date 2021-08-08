@@ -1,5 +1,5 @@
 ```console
-$ sndst00m --metadata
+$ second-state-munin --metadata
          '..''.-hdhyo/:.'.            development
       .-:--ohmNNMMMMMMNmy/.           -----------
     '/yh//dyssyydmNNNMMMdos/.         Maintainer:               material-dynmap
