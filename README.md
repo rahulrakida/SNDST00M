@@ -12,10 +12,10 @@ $ sndst00m --metadata
    :sy/:smMmyhmd./:-/oohmhdmh+-       
    `/ysMMMs+hohyhdmdddsdyhy/-         contact
      ysdmNomms:h+++/o+o/+dys+`        -------
-     -ysy-/- ./.-:::-+y-osyoso.       Email: sndst00m@outlook.com
-     `/s  -/+os+oyhdyohds:.-+yh/`     Discord: <@735694124476530698>
-      `.-:/-.    `-ymMMNmssso:y/so    Reddit: u/__MUNIN__
-                   /::+-:::/:--::/    StackOverflow: https://stackoverflow.com/users/15764156/
+     -ysy-/- ./.-:::-+y-osyoso.       Email:.                   sndst00m@outlook.com
+     `/s  -/+os+oyhdyohds:.-+yh/`     Discord:                  <@735694124476530698>
+      `.-:/-.    `-ymMMNmssso:y/so    Reddit:                   https://reddit.com/u/__MUNIN__
+                   /::+-:::/:--::/    StackOverflow:            https://stackoverflow.com/users/15764156/
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=SNDST00M&theme=algolia&show_icons=true&hide_border=true" alt="Stats" width="440" align="center">
