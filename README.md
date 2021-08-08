@@ -18,4 +18,4 @@ $ sndst00m --metadata
                    /::+-:::/:--::/    StackOverflow:            https://stackoverflow.com/users/15764156/
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=SNDST00M&theme=algolia&show_icons=true&hide_border=true" alt="Stats" width="440" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SNDST00M&theme=nord&show_icons=true&hide_border=true" alt="Stats" width="440" align="center">
