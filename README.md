@@ -1,15 +1,15 @@
 ```console
 $ sndst00m --metadata
-         `..``.-hdhyo/:. `            development
+         `..``.-hdhyo/:.`.            development
       .-:--ohmNNMMMMMMNmy/.           -----------
     `/yh//dyssyydmNNNMMMdos/.         Maintainer:               material-dynmap
- `.`:::::::\::\+\++oyysdhs/o/:.`      Programming languages:    TS, JS, CSS, MATLAB, Python, C++, Less, Sass
- `s`-.+o/::\\\\+oo+oyddh/++/-.-`      Operating system:         Windows 10 Home, Ubuntu 20.04 (WSL)
+ `.`:::::::\::\+\++oyysdhs/o/:.       Programming languages:    TS, JS, CSS, MATLAB, Python, C++, Less, Sass
+ `s`-.+o/::\\\\+oo+oyddh/++.-.-`      Operating system:         Windows 10 Home, Ubuntu 20.04 (WSL)
  `s`..o-:::\\\\++o+:/oy:.//+sy+:      Developer environment:    Visual Studio Code, Atom
- :y -.//::\\\\\\\+oymmNMhssoshs-`     Window manager:           AquaSnap
- -. `-::/:+/+:+o+/s-hsddsoNMmd/:      Terminal shell:           PWSH7, Unix Bash, MATLAB
- :..-::///ohdh:`.-o.:+dMMh+ss/+-      
-   :sy/:smMmyhmd./:-/oohmhdmh+-       
+ :y -.//::\\\\\\\+oymmNM:ssoshs-`     Window manager:           AquaSnap
+ -. `-::/:+/+:+o+/s-hsdds:NMmd/:      Terminal shell:           PWSH7, Unix Bash, MATLAB
+ :..-::///ohdh:`.-o.:+dMMh+../+-      
+   :sy/:smMmyhmd./:-/oohmhd::+-       
    `/ysMMMs+hohyhdmdddsdyhy/-         contact
      ysdmNomms:h+++/o+o/+dys+`        -------
      -ysy-/- ./.-:::-+y-osyoso.       Email:.                   sndst00m@outlook.com
