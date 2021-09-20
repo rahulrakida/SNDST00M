@@ -2,7 +2,7 @@
 $ second-state-munin --metadata
          '..''.-hdhyo/:.'.            development
       .-:--ohmNNMMMMMMNmy/.           -----------
-    '/yh//dyssyydmNNNMMMdos/.         Maintainer:               material-dynmap
+    '/yh//dyssyydmNNNMMMdos/.         Most popular project:     starfall-visual-studio-code, material-dynmap
  '.':::::::\::\+\++:::::''/o/:.       Programming languages:    TS, JS, CSS, MATLAB, Python, C++, Less, Sass
  's'-.+o/::\\\/+''+':'''/++.-.-'      Operating system:         Windows 10 Home, Ubuntu 20.04 (WSL)
  's'..o-:::\://++o+:/oy:.//+sy+:      Developer environment:    Visual Studio Code, Atom
