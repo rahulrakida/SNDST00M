@@ -1,4 +1,4 @@
-<table border="0">
+<table border="0" align="center">
 <tr>
 <td align="center" width="324" rowspan="3" border="0">
 <img src="https://github.com/SNDST00M/SNDST00M/raw/main/console.svg" alt="Illustration" width="324" />
