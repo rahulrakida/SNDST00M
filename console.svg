@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="324" height="346">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 324 346">
 <foreignObject x="0" y="0" width="100%" height="100%">
 <pre xmlns="http://www.w3.org/1999/xhtml" style="width: auto;display: inline-block;background-color: rgb(22, 27, 34);border-radius: 6px;border-end-end-radius: 6px;border-end-start-radius: 6px;border-start-end-radius: 6px;border-start-start-radius: 6px;box-sizing: border-box;color: rgb(201, 209, 217);font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size: 13.6px;line-height: 19.72px;margin: 0;padding-block: 10px;padding: 10px 20px;padding-inline: 20px;text-size-adjust: 100%;white-space: pre;-webkit-locale: 'en';"><!--
 -->$ <span class="pl-s1" style="box-sizing: border-box;">second-state-munin --metadata</span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">         '..''.-hdhyo/:.'.            </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">      .-:--ohmNNMMMMMMNmy/.           </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">    '/yh//dyssyydmNNNMMMdos/.         </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);"> '.':::::::\::\+\++:::::''/o/:.       </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);"> 's'-.+o/::\\\/+''+':'''/++.-.-'      </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);"> 's'..o-:::\://++o+:/oy:.//+sy+:      </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);"> :y -.//::\\/:/:\+oymmNM:ssoshs-'     </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);"> -. '-::/+:/+:+o+/s-hsdds:NMmd/:      </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);"> :..-::///ohdh:'.-o.:+dMMh+../+-      </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">   :sy/:smMmyhmd./:-/oohmhd::+-       </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">   '/ysMMMs+hohyhdmdddsdyhy/-         </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">     ysdmNomms:h+++/o+o/+dys+'        </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">     -ysy-/- ./.-:::-+y-osyoso.       </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">     '/s  -/+os+oyhdyohds:.-+yh/'     </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">      '.-:/-.    '-ymMMNmssso:y/so    </span>
-<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">                   /::+-:::/:--::/    </span></pre></foreignObject></svg>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">          '..''.-hdhyo/:.'.           </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">       .-:--ohmNNMMMMMMNmy/.          </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">     '/yh//dyssyydmNNNMMMdos/.        </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">  '.':::::::\::\+\++:::::''/o/:.      </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">  's'-.+o/::\\\/+''+':'''/++.-.-'     </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">  's'..o-:::\://++o+:/oy:.//+sy+:     </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">  :y -.//::\\/:/:\+oymmNM:ssoshs-'    </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">  -. '-::/+:/+:+o+/s-hsdds:NMmd/:     </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">  :..-::///ohdh:'.-o.:+dMMh+../+-     </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">    :sy/:smMmyhmd./:-/oohmhd::+-      </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">    '/ysMMMs+hohyhdmdddsdyhy/-        </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">      ysdmNomms:h+++/o+o/+dys+'       </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">      -ysy-/- ./.-:::-+y-osyoso.      </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">      '/s  -/+os+oyhdyohds:.-+yh/'    </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">       '.-:/-.    '-ymMMNmssso:y/so   </span>
+<span class="pl-c1" style="box-sizing: border-box; color: rgb(121, 192, 255);">                    /::+-:::/:--::/   </span></pre></foreignObject></svg>
